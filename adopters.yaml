@@ -1,3 +1,9 @@
 - organization: Mia-Platform
   description: Added kube-green to all no-prod environments that are turned off all nights and weekend. A lot of them are turned off till are not necessary. This is saving us more than 30% of resources!
   website: https://mia-platform.eu
+- organization: Step4Business
+  description: We are using kube-green to turn off DEV, UAT and PREPROD environments during Sunday, Saturday and nights. This way we are saving 20% of resources and optimizing costs.
+  website: https://www.step4business.com
+- organization: AzimutMarketplace
+  description: During nights, Saturdays and Sundays our business is closed and so are our non-production environments. This way we encourage developers to turn off their PC and enjoy the weekends.
+  website: https://azimutmarketplace.it
